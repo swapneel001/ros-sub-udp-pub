@@ -6,12 +6,12 @@
 
 *run each command in an individual tab*
 
-'''
+```
 roscore
 rosrun fyp pub.py
 rosrun fyp sub.py
 python udpsub.py
-'''
+```
 
 ### Functions for each program:
 1. pub.py publishes a dummy message to /cmd_vel
